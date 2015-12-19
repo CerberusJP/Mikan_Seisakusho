@@ -1,0 +1,20 @@
+GitHub Desktopの使い方
+
+
+
+【ダウンロード】
+https://desktop.github.com/
+
+
+
+【使い方】
+このページを参考に以下の操作を行う。
+http://qiita.com/yukiyan/items/2ea3dc5813fdba5d9cd2
+
+
+（1）Mikan_Seisakushoにアクセス
+（2）クローンを作成
+　　　自分のPCにMikan_Seisakushoのフォルダができ、Mikan_SeisakushoのGit内にあるファイルがコピーされる
+（3）自分のPC上のフォルダ内でファイルを作成したり、内容を更新する
+（4）コミット
+（5）プルリクエスト
